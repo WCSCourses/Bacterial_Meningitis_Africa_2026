@@ -1,33 +1,25 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Add Course Title
+# Molecular and Genomic Approaches: Bacterial Meningitis Diagnosis and Surveillance in Africa
 
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
 
-Add one line description of the course (the same needs to be added on the right side of the page in the description)
+Explore regionally adapted molecular and genomic techniques for tackling bacterial meningitis
 
 ### Summary
 
-Add text here
+Molecular and genomic techniques have revolutionised the routine identification and characterisation of bacterial meningitis. This has led to both opportunities and challenges from sample collection, to diagnosis, surveillance, data sharing, and public health policy. 
 
-### Target Audience
+This week-long training course, led by a team from [Centre Suisse de Recherches Scientifiques (CSRS) en Côte d’Ivoire](https://www.csrs.ch/fr) in collaboration with the [Meningitis Research Foundation (MRF)](https://www.meningitis.org/) and the [Global Meningitis Genomic Partnership (GMGP)](https://www.meningitis.org/research-and-policy/research-we-support/the-global-meningitis-genome-partnership/) is funded by [Wellcome](https://wellcome.org/), with support from the Wellcome Sanger Institute. The course will examine the impact of molecular and genomic approaches using regionally relevant clinical scenarios.
 
-Add text here
-
-### Learning outcomes
-
-Add text here
-
-### Programme
-
-Add text here
+Participants will be guided through an intensive programme delivered by field experts providing a clear and comprehensive overview of the meningitis genomic workflow, with hands-on sequencing and data and bioinformatic analysis. They will also be introduced to different bioinformatic tools for sequence analysis including a new PUBMLST platform (AMERT) designed for African reference laboratories to  store and analyse meningitis sequence data.
 
 **Course Runs**      
 
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
-| Add Course Run Dates  | [Add Course Run Title](Add Github Repository link) | Location|Citation DOI |
+|28 September–2 October 2026  | [Molecular and Genomic Approaches: Bacterial Meningitis Diagnosis and Surveillance in Africa]() | Location|Citation DOI |
 
 ******
 
