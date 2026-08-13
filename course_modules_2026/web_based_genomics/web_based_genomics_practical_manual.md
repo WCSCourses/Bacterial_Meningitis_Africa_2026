@@ -20,9 +20,9 @@ PubMLST.org (https://pubmlst.org) is a free online web-based resource that suppo
 
 In this practical we will be using the PubMLST *Neisseria* database to identify MLST alleles, sequence types (STs), and the finetyping antigen peptide (PorA and FetA) variants, for a set of capsular group X meningococcal isolates from Africa. Sequence data for these can be found at https://github.com/WCSCourses/Bacterial_Meningitis_Africa_2026/tree/main/course_data_2026/sequence_typing.
 
-First download and open the Excel worksheet (https://github.com/WCSCourses/Bacterial_Meningitis_Africa_2026/tree/main/course_data_2026/sequence_typing/worksheet.xlsx). Fill this in as you go.
+First download and open the Excel worksheet (https://github.com/WCSCourses/Bacterial_Meningitis_Africa_2026/tree/main/course_data_2026/sequence_typing/worksheet.xlsx - note that you will need to click the 'Download' link on this page). Fill this in as you go.
 
-If you wish, you can download all the files as a zip archive from https://github.com/WCSCourses/Bacterial_Meningitis_Africa_2026/tree/main/course_data_2026/sequence_typing/data.zip.
+If you wish, you can download all the files as a zip archive from https://github.com/WCSCourses/Bacterial_Meningitis_Africa_2026/tree/main/course_data_2026/sequence_typing/data.zip (again note that you will need to click the 'Download' link on this page).
 
 > **Please note that you need to register for a PubMLST account to run the queries necessary for this practical. Please see https://pubmlst.org/site-accounts for details.** 
 
