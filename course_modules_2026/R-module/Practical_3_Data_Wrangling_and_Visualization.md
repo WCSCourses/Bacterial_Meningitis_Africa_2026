@@ -167,7 +167,9 @@ plot_Africa
 
 **Expected outcome:** a scatter plot with `year` on the x-axis, `country` on the y-axis, points coloured by `serogroup`, and point size proportional to `count`.
 
-> 📸 **Screenshot to include:** The resulting bubble plot (Lesson 3 slide "Function: ggplot").
+![Bubble plot showing samples by country and year](images/lesson03-ggplot-bubble-plot.png)
+
+*Figure 2. Bubble plot created with `ggplot2`, showing the number of samples collected by country and year. Larger bubbles represent a greater number of samples.*
 
 ### C3. Format the plot
 ```r
