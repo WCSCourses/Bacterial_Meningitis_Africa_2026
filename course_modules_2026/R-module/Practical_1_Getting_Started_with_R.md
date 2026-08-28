@@ -211,8 +211,9 @@ Two options:
 - **From GitHub:** [`African_meningococci.xlsx`](../datasets/African_meningococci.xlsx) — click the download icon on the raw file page.
 - **From the training virtual machine:** the file is already available in `datasets/African_meningococci.xlsx`.
 
-> 📸 **Screenshot to include:** The GitHub file listing with the download icon circled (Lesson 1 slide "Download the Datasets").
+![GitHub file listing showing the download button](images/lesson01-github-download-dataset.png)
 
+*Figure 3. Downloading a dataset from GitHub. Open the required dataset file and click the **Download raw file** button (circled) to save the file to your computer.*
 ### C3. Set up an R Project (recommended)
 Working inside an R Project keeps your file paths simple and reproducible.
 
@@ -226,7 +227,7 @@ data_01_Africa <- read.xlsx(xlsxFile = "datasets/African_meningococci.xlsx")
 > ⚠️ Common mistakes to avoid:
 > - Do **not** use square brackets: `read_excel[path = "..."]` ✘
 > - Do **not** leave the file path unquoted: `read_excel(path = ../inputs/African_meningococci.xlsx)` ✘
-> - Do use quotes around the full path: `read.xlsx(xlsxFile = "datasets/African_meningococci.xlsx")` ✔
+> - Use quotes around the full path: `read.xlsx(xlsxFile = "datasets/African_meningococci.xlsx")` ✔
 
 ### C5. Confirm the dataset loaded correctly
 Look in the **Environment** pane (top-right). You should see:
@@ -236,7 +237,9 @@ Data
   data_01_Africa    716 obs. of 22 variables
 ```
 
-> 📸 **Screenshot to include:** The Environment pane showing `data_01_Africa` with 716 obs. of 22 variables (Lesson 1 slide "Confirm the Dataset is within R").
+![RStudio Environment pane showing the imported data_01_Africa dataset](images/lesson01-environment-data-africa.png)
+
+*Figure 4. The RStudio **Environment** pane after importing the dataset. Confirm that `data_01_Africa` appears under **Data** and contains **716 observations of 22 variables**.*
 
 **Checkpoint C:** Click the blue arrow next to `data_01_Africa` in the Environment pane to expand it and confirm you can see the column names.
 
