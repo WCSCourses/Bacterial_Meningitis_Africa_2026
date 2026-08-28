@@ -45,8 +45,6 @@ You will need:
 
 *Expected outcome: RStudio opens and automatically detects your R installation.*
 
-> 📸 **Screenshot to include in the repo version:** RStudio's "Download and Install R" and "Download RStudio Desktop" pages, similar to Lesson 1 slide "Where do I start."
-
 ### A4. Explore the RStudio layout
 Open RStudio. You should see four panes:
 
@@ -57,8 +55,9 @@ Open RStudio. You should see four panes:
 | **Environment / History** | Top-right | Shows the objects (data, variables) currently loaded in your session |
 | **Files / Plots / Packages / Help / Viewer** | Bottom-right | File browser, plot output, package manager, and help documentation |
 
-> 📸 **Screenshot to include:** A labelled screenshot of the four RStudio panes (see Lesson 1 slide "Now we open R studio").
+![RStudio interface showing the four main panes](images/lesson01-rstudio-layout.png)
 
+*Figure 1. The RStudio interface. The four main areas are the Editor (1), Console (2), Environment/History (3), and Files/Plots/Packages/Help (4).*
 **Checkpoint A:** You should be able to point to each of the four panes in RStudio and say what it's for. If you're not sure, ask a facilitator before moving on.
 
 ---
