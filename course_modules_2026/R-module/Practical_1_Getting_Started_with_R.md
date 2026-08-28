@@ -152,7 +152,9 @@ There are three ways to run a line/selection of code from the **Editor**:
 ### B7. Save your script
 `File > Save As...` and give it a sensible name, e.g. `Lesson01.R`. Always save with the `.R` extension.
 
-> 📸 **Screenshot to include:** The `Save As` dialog box (Lesson 1 slide "Saving your code").
+![RStudio Save As dialog box](images/lesson01-save-as-dialog.png)
+
+*Figure 2. The RStudio **Save As** dialog box. Choose the folder where you want to save your script, enter a descriptive file name, and click **Save**.*
 
 **Checkpoint B — Bioinformatics eyesight test:** For each line below, decide whether it is valid R syntax (✔) or will throw an error (✘). Try running each one yourself to check.
 
