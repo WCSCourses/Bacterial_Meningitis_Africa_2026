@@ -101,7 +101,9 @@ Burkina Faso  2013     20
 ...
 ```
 
-> 📸 **Screenshot to include:** A filtered/sorted view of `data_03_Africa` (Lesson 3 slide "The number of samples per year in each country").
+![Filtered and sorted view of data_03_Africa](images/lesson03-filtered-sorted-data-africa.png)
+
+*Figure 1. A filtered and sorted view of `data_03_Africa`, used to examine the number of samples collected per year in each country.*
 
 ### B2. Task — more grouping practice
 Try these on your own before checking the solutions:
