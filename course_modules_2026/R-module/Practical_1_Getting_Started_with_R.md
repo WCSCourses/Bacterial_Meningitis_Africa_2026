@@ -71,11 +71,11 @@ Open RStudio. You should see four panes:
 The `#` symbol is **not a command** — it is used to comment your code. Comments are ignored when the code runs, but they help you (and others) understand what the script does.
 
 ```r
-#==============================================================================#
-# Course Title: Molecular and Genomic Approaches to Clinical Microbiology in Africa
-# Date: 13-19 September 2025
-# Location: MRC Unit, The Gambia
-#==============================================================================#
+#==========================================================================================================#
+# Course Title: Molecular and Genomic Approaches: Bacterial Meningitis Diagnosis and Surveillance in Africa
+# Date: 28th September - 2nd October 2026
+# Location: Centre Suisse de Recherches Scientifiques (CSRS), Côte d'Ivoire
+#==========================================================================================================#
 ```
 
 ### B3. Assign your first variable
