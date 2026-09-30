@@ -2,15 +2,20 @@
 
 **Software used during the course**      
 
-| Software | Version (if not latest) | Module |Notes |
-|-------------|--------------|----------|-------------|
-| [Software Name](Software link) | Version Details | Module Name| Space for notes |
+## Software used during the course
+
+| Software | Version, if not latest | Module | Notes and installation instructions |
+|---|---:|---|---|
+| [MEGA](https://www.megasoftware.net/) | 11.0.13 | Bioinformatics | Required. Install `gconf2-common` first:<br>`wget http://archive.ubuntu.com/ubuntu/pool/universe/g/gconf/gconf2-common_3.2.6-6ubuntu1_all.deb`<br>`sudo dpkg -i gconf2-common_3.2.6-6ubuntu1_all.deb`<br><br>Then reinstall `libgconf-2-4`:<br>`sudo dpkg -i libgconf-2-4_3.2.6-6ubuntu1_amd64.deb`<br><br>For command line use:<br>`sudo snap install mega-cmd` |
+| [BLAST+](https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html) | 2.12.0 | Bioinformatics | Required. Install using:<br>`sudo apt update`<br>`sudo apt install ncbi-blast+` |
+| [Firefox](https://www.mozilla.org/firefox/) | 135 | Bioinformatics | Required. Used for browser-based course activities. If you dont use Firefox, you can use any other browser that you may have already installed on the laptop |
+| [R](https://cran.r-project.org/) | Latest version recommended | R | Required. Download and install R from CRAN.<br><br>After installing R, open R and install the required packages:<br>`install.packages(c("openxlsx", "dplyr", "janitor", "stringi", "ggplot2", "lubridate", "data.table"))` |
+| [RStudio](https://posit.co/download/rstudio-desktop/) | Latest version recommended | R | Required. Download and install RStudio Desktop from Posit. You may also use Positron if preferred. |
 
 ## Informatics Set-Up
 For installation and setup, please refer to the following guides:
 
 - **[Oracle VM VirtualBox Installation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/VM_Guide.md)** – Detailed instructions for installing and configuring VirtualBox on different operating systems. *(Note: Separate installations are needed for Intel-based and ARM-based Macs, and the VDI files will differ.)*
-- **[Docker Installation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/Docker_guide.md)** – Step-by-step guide for installing Docker on Windows, macOS, and Linux.
 
 The Host Operating System Requirements are: <br />
 - RAM requirement: 8GB (preferably 12GB) <br />
